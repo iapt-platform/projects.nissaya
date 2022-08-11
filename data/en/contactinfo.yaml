@@ -1,9 +1,9 @@
-contactformaction: 'post-action'
+contactformaction: 'https://www-hk.wikipali.org/contact'
 
 address:
-- line: '1234 Somewhere Road #87257'
-- line: 'Nashville, TN 00000-0000'
+- line: 'Jinghong Dajinta Temple'
+- line: 'Yunnan, China'
 
 phone: '(800) 000-0000'
 
-email: 'someone@untitled.tld'
+email: 'visuddhnanda@gmail.com'
