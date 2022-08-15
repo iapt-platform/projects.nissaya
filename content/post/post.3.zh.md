@@ -16,7 +16,7 @@ disableComments = true
 
 ## Nissaya APP
 
-![Nissaya-app](/images/nissaya-app.jpg)
+![Nissaya-app](../../images/nissaya-app.jpg)
 
 这三个nissaya app 里面包含了下面提到的Masoyin电子图书馆中的部分PDF。App的作者将巴利三藏文本与这些扫描版的PDF进行了页码层级的对照。也就是说选择某个巴利三藏的页，可以查看对应这页的Nissaya。由于使用了扫描PDF的原因，无法拷贝Nissaya文字。
 
@@ -66,7 +66,7 @@ http://dhammadownload.com/
 
 ### 卡巴耶佛教研究图书馆(Kabaaye Buddha Research Library)
 
-![Kabaaye Buddha Research Library](/images/post3/kbrl-5.jpg)
+![Kabaaye Buddha Research Library](../../images/post3/kbrl-5.jpg)
 
 >**卡巴耶佛教研究图书馆**位于仰光 Mayangone 镇 Kaba Aye Hill Estate 的第六次圣典结集 Mahapasana Cave 以北。专为佛教研究建立的图书馆。馆藏2万多。亦将部分馆藏制作成了扫描版的电子书。可在[官网(www.kbrl.gov.mm)](http://www.kbrl.gov.mm/Catalog/Featured)下载。许多馆藏为早期图书。印刷质量很好。
 

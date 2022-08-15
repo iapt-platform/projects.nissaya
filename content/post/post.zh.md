@@ -8,18 +8,18 @@ disableComments = true
 +++
 ## 概况
 
-![nissaya](/images/vinayalankara-nissaya.jpg)
+![nissaya](../../images/vinayalankara-nissaya.jpg)
 >Vinayalaṅkāra ṭīkā nissaya
 
 巴利缅文逐词翻译（缅语：နိဿယ 罗马体转写：Nissaya）。一种翻译文体。是巴利语经文的缅文逐字翻译的著作。不同于常见的逐段或逐句的译文。Nissaya文本格式为：缅文字母写的一个巴利语单词（有时是几个单词）和紧随其后的缅文翻译或解释。通常巴利语单词和缅文翻译之间用缅文逗号（၊）分隔，而两个巴利语单词之间用缅文句号(။)分隔。
 
-![app](/images/sample.jpg)
+![app](../../images/sample.jpg)
 
 >棕色线标出的为巴利语单词。紧随其后的是缅文翻译。
 
 古代Nissaya被刻写在棕榈叶上。近现代出现了纸质版的Nissaya书籍。目前，电子版的Nissaya逐渐借助互联网广泛流通。也出现了手机的Nissaya App。
 
-![app](/images/nissaya-app.jpg)
+![app](../../images/nissaya-app.jpg)
 >三款包含Nissaya的手机App
 
 ## 历史
@@ -37,23 +37,23 @@ disableComments = true
 在古代，缅甸的佛经被刻写在棕榈叶上。
 我们现在依然可以找到被刻写在棕榈叶上的Nissaya。在缅甸直通（Thaton）的正法之光寺（Sadhamma­jotika Monastery）的吴坡提图书馆（U Pho Thi Library）。藏有大量棕叶经。2013年，一个[项目组](https://mmdl.utoronto.ca/about/the-project-to-digitize/)来此拍摄棕叶经。并将数码照片放到网上供大家下载。这其中就有许多Nissaya。
 
-![U Pho Thi Library](/images/1-UPhoThi-1024x768.jpg)
+![U Pho Thi Library](../../images/1-UPhoThi-1024x768.jpg)
 >吴坡提图书馆
 
-![书柜](/images/2-ms-cabinet-e1511321950399-768x1024.jpg)
+![书柜](../../images/2-ms-cabinet-e1511321950399-768x1024.jpg)
 
 
-![culavaga-tika](/images/culavaga-tika.jpg)
+![culavaga-tika](../../images/culavaga-tika.jpg)
 >吴坡提图书馆馆藏的律藏的复註。已经有一百多年的历史
 
 这些资料中，有非常珍贵的尚未出版的Nissaya。如：律藏的律摄(Vinayasaṅgaha),律裁定(Vinayavinicchaya),经藏的《大义释义注》(Mahāniddesa-aṭṭhakathā)
 
-![anutika](/images/anutika-1.jpg)
+![anutika](../../images/anutika-1.jpg)
 >这部阿毗达摩藏的再复注的逐字翻译（Anuṭīkā Nissaya）尚未出版。
 
 在近代，出现了以纸张为媒介的Nissaya出版物。也是目前用得最广泛的载体。这些已经出版的Nissaya涵盖了根本(Mūla)和大部分义注。
 
-![patisampitamagga](/images/patisampitamagga.jpg)
+![patisampitamagga](../../images/patisampitamagga.jpg)
 >无碍解道Nissaya，1960年版 现藏于[卡巴耶佛教研究图书馆](http://www.kbrl.gov.mm/)（Kabaaye buddha research library）
 
 有些虽然有棕榈叶版本。还是有现代西亚多重新写过。比较著名的是马哈甘达勇西亚多———贾纳卡阿毗旺萨。他用毕生的精力用来教学和撰写Nissaya。他的Nissaya用比较简明易懂的缅文写成。包括了律藏的根本和义注，经藏长部的根本和义注，阿毗达摩藏的根本义注和复注。马哈希西亚多，写了《清静道论大疏钞》的Nissaya。
@@ -94,6 +94,6 @@ nissaya 缅文语尾表
 
 不仅如此。Nissaya里面的巴利语单词的顺序与巴利原文不一定相同。有时候会调整单词前后顺序或者增加单词。如下面的句子。
 
-![majjima](/images/sample2.png)
+![majjima](../../images/sample2.png)
 
 括号内的是增加的词。增加的单词是补充原来的句子中省略的成份。对学习者理解原文意思很有帮助。
