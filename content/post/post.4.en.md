@@ -13,5 +13,5 @@ disableComments = true
 
 包括《本生义注》等的第一批Nissaya开始录入。
 
-![2022-3-11.jpg](/images/post4/2022-3-11.jpg)
+![2022-3-11.jpg](../../images/post4/2022-3-11.jpg)
 `2022-3-11 缅甸 dawei帕奥禅修中心办公室`

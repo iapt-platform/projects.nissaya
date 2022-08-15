@@ -10,7 +10,7 @@ disableComments = true
 
 我们使用IAPT所开发的[Wikipali](https://www.wikipali.org)三藏电子平台进行工作。该平台可以方便的录入与巴利原文逐句对照的文本。便于以后研究人员查找和使用。nissaya的普遍格式是:“**缅文巴利**,缅文解释。” 
 
-![sample](/images/sample.jpg)
+![sample](../../images/sample.jpg)
 
 >这是《经藏-中部》第一本Nissaya的开头一段。可以看出，棕色线标出的是巴利语，而紧随其后的是缅语解释。之间用缅文逗号分隔。
 
@@ -22,7 +22,7 @@ disableComments = true
 
 虽然录入的时候都是缅文。修改后的程序可以自动将缅文字母拼写的巴利文显示为罗马体。并且可以将缅文表示格位的语尾高亮。增加语尾所代表的格位提示。
 
-![结果](/images/sample-result.gif)
+![结果](../../images/sample-result.gif)
 
 [该范例的链接](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=165&par=5&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)
 
