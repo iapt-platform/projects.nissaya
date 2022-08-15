@@ -46,7 +46,7 @@ disableComments = true
 ![culavaga-tika](../../images/culavaga-tika.jpg)
 >吴坡提图书馆馆藏的律藏的复註。已经有一百多年的历史
 
-这些资料中，有非常珍贵的尚未出版的Nissaya。如：律藏的律摄(Vinayasaṅgaha),律裁定(Vinayavinicchaya),经藏的《大义释义注》(Mahāniddesa-aṭṭhakathā)
+这些资料中，有非常珍贵的尚未出版的Nissaya。如：律藏的律裁定(Vinayavinicchaya),经藏的《大义释义注》(Mahāniddesa-aṭṭhakathā)
 
 ![anutika](../../images/anutika-1.jpg)
 >这部阿毗达摩藏的再复注的逐字翻译（Anuṭīkā Nissaya）尚未出版。
