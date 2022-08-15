@@ -1,14 +1,14 @@
 +++
 title = 'Nissaya-缅甸佛教的基石'
 slug = 'post'
-image = 'images/bg.jpg'
-date = "2012-02-06T00:00:00"
+image = 'images/post/masoyin-1.jpg'
+date = "2022-02-06T00:00:00"
 description = 'Nissaya是巴利三藏的缅文版的逐词翻译译文。'
 disableComments = true
 +++
 ## 概况
 
-![nissaya](/images/Vinayalaṅkāra-ṭīkā-nissaya.jpg)
+![nissaya](/images/vinayalankara-nissaya.jpg)
 >Vinayalaṅkāra ṭīkā nissaya
 
 巴利缅文逐词翻译（缅语：နိဿယ 罗马体转写：Nissaya）。一种翻译文体。是巴利语经文的缅文逐字翻译的著作。不同于常见的逐段或逐句的译文。Nissaya文本格式为：缅文字母写的一个巴利语单词（有时是几个单词）和紧随其后的缅文翻译或解释。通常巴利语单词和缅文翻译之间用缅文逗号（၊）分隔，而两个巴利语单词之间用缅文句号(။)分隔。
