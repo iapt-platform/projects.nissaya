@@ -9,6 +9,11 @@ disableComments = true
 
 ## 2022年7月5日 在仰光寻找清楚的Nissaya书
 
+
+
+## 2022年7月3日 供养Māhavihara佛学院的用于Nissaya校对的五台电脑到位
+
+
 ## 2022年2月 项目启动
 
 包括《本生义注》等的第一批Nissaya开始录入。
