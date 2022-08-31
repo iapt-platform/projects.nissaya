@@ -16,8 +16,8 @@ disableComments = true
 ## 计划协调调度
 | Name | Country |  |
 | - | - | - |
-| Aiyang | | |
-| Chunhua | | |
+| Aiyang | Canada | |
+| Chunhua | China | |
 
 
 ## Financial officer
