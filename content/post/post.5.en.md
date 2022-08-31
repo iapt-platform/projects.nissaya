@@ -1,7 +1,7 @@
 +++
 title = 'Supporter'
 slug = 'post5'
-image = 'images/post5/2022-4-9.jpg'
+image = 'images/post5/dhammadana-hoerbuecher.jpg'
 date = "2022-08-19T00:00:00"
 description = '积累菩提资粮'
 disableComments = true

@@ -1,7 +1,7 @@
 +++
 title = 'About Us'
 slug = 'post6'
-image = 'images/post4/2022-4-9.jpg'
+image = 'images/post4/2022-3-11.jpg'
 date = "2022-08-19T00:00:00"
 description = ''
 disableComments = true
