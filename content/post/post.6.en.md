@@ -44,12 +44,12 @@ disableComments = true
 
 | Name | Country |  |
 | - | - | - |
-| Maria贤友 | 美国 | 禅林联络/开示主持 |
-| Youyou贤友 | 中国 | 开示主持 |
-| 明蕉贤友 | 中国 | 课表制作 |
-| 高敏贤友 | 中国 | 录屏/资料上传 |
-| 周秋萍 | 中国 | 外部群发布 |
-| 刘爱爱 | 中国 | 内部群发布 |
+| Maria | U.S. | 禅林联络/开示主持 |
+| Youyou | China | 开示主持 |
+| Ming Jiao | China | 课表制作 |
+| Gao Min | China | 录屏/资料上传 |
+| Zhou Qiuping | China | 外部群发布 |
+| Liu Aiai | China | 内部群发布 |
 
 
 
