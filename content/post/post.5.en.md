@@ -1,7 +1,7 @@
 +++
 title = '供养名单'
-slug = 'post6'
-image = 'images/post4/2022-3-11.jpg'
+slug = 'post5'
+image = 'images/post5/dana.jpg'
 date = "2022-10-24T00:00:00"
 description = 'Nissaya的保护离不开大家的支持。'
 disableComments = true
